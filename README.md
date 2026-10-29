@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Data+Science+IDE-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 DataSpell Free Installer** — DataSpell is JetBrains' dedicated data science IDE combining interactive Jupyter notebook support with intelligent Python editing. Works without internet access, no account required. Full offline installation.
+**💻 DataSpell Free Installer** — DataSpell is JetBrains' IDE for data scientists, combining Jupyter notebook support with an intelligent Python editor, database tools, and built-in scientific mode for exploring data. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About DataSpell
 
-DataSpell is JetBrains' dedicated data science IDE combining interactive Jupyter notebook support with intelligent Python editing. Features include a variable viewer, interactive console, data frame inspector, and integration with popular data science libraries. DataSpell is designed for data scientists who want smarter IDE features than JupyterLab provides without sacrificing notebook-style interactivity.
+DataSpell is JetBrains' IDE for data scientists, combining Jupyter notebook support with an intelligent Python editor, database tools, and built-in scientific mode for exploring data. Designed specifically for data science and machine learning workflows.
 
 ---
 
 ## ❌ Problem: DataSpell is hard to access
 
-- **Commercial License** — Requires paid JetBrains subscription
-- **JupyterLab Alternative** — Free JupyterLab satisfies many data science workflows
-- **Resource Demands** — Higher memory usage than JupyterLab alone
-- **Learning Curve** — Combining notebook and project concepts requires adjustment
+- **Paid Subscription** — No free community edition
+- **Competition** — JupyterLab Desktop and VS Code with Python extension provide free alternatives
+- **Resource Intensive** — Heavy application for notebook-focused workflows
+- **Niche Positioning** — Overlaps with PyCharm Professional for data science tasks
 
 ---
 
@@ -121,7 +121,7 @@ DataSpell is JetBrains' dedicated data science IDE combining interactive Jupyter
 
 ---
 
-**DataSpell Free Installer** — DataSpell is JetBrains' dedicated data science IDE combining interactive Jupyter notebook support with intelligent Python editing. Install without internet connection today!
+**DataSpell Free Installer** — DataSpell is JetBrains' IDE for data scientists, combining Jupyter notebook support with an intelligent Python editor, database tools, and built-in scientific mode for exploring data. Install without internet connection today!
 
 <div align="center">
 
